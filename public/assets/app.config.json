@@ -1,0 +1,7 @@
+{
+    "apiServer": {
+    "protocol": "http",
+    "name": "192.168.0.102",
+    "port": "8080"
+    }
+}

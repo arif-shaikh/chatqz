@@ -1,0 +1,8 @@
+{
+  "name": "Chat Quiz Application",
+  "description": "Chat applicatin modified to hold quiz",
+  "repository": "https://github.com/heroku/chaqz",
+  "logo": "https://cdn.rawgit.com/heroku/chaqz/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
